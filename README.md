@@ -18,6 +18,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tapdance07&show_icons=true&theme=radical)    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tapdance)](https://solved.ac/tapdance/)
 
 <br>
     
